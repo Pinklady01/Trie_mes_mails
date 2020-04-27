@@ -18,5 +18,9 @@ Intelligence artificielle qui apprend en fonction de ce qu'on a déjà trié et 
   - s'intégrer au serveur de mail
   - s'intégrer à un client mail existant (type Thunderbird)
   - s'intégrer à un webmail (extention navigateur)
+  
+  ## Sites:
+  - https://www.youtube.com/watch?v=ok2s1vV9XW0
+  - https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 
