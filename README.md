@@ -33,4 +33,7 @@ pip3 install notebook
 
 # Installer divers dépendances
 pip3 install pytest pandas numpy sklearn pydot
+
+# Installer graphviz
+sudo apt install graphviz
 ```
