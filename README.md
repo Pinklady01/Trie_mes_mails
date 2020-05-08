@@ -24,3 +24,13 @@ Intelligence artificielle qui apprend en fonction de ce qu'on a déjà trié et 
   - https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 
+## Installation
+
+
+```sh
+# Installer Jupyter notebook (avec Python 3)
+pip3 install notebook
+
+# Installer divers dépendances
+pip3 install pytest pandas numpy sklearn pydot
+```
